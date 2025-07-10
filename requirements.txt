@@ -1,13 +1,9 @@
---find-links https://download.pytorch.org/whl/cpu/torch_stable.html
-torch==2.3.1+cpu
-torchaudio==2.3.1+cpu
-torchvision==0.18.1+cpu
-
 streamlit
 pandas
-joblib
-plotly
 scikit-learn
+joblib
 transformers
+torch
 sentencepiece
-accelerate
+plotly-express
+plotly
